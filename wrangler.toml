@@ -4,8 +4,14 @@ compatibility_date = "2023-10-25"
 
 [vars]
 UUID = "d3b84180-21db-49eb-832f-a39da5b34bc5"
-TROJAN_PASSWORD = "pass12345678"
+user_id = "d3b84180-21db-49eb-832f-a39da5b34bc5"
+TROJAN_PASSWORD = "my-secret-pass"
+pass = "my-secret-pass"
 
 [[kv_namespaces]]
 binding = "C"
+id = "7bd18c9e2da3424fbe8ef809eb949b37"
+
+[[kv_namespaces]]
+binding = "BPB"
 id = "7bd18c9e2da3424fbe8ef809eb949b37"

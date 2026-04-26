@@ -3,7 +3,8 @@ main = "worker.js"
 compatibility_date = "2023-10-25"
 
 [vars]
-u = "d3b84180-21db-49eb-832f-a39da5b34bc5"
+UUID = "d3b84180-21db-49eb-832f-a39da5b34bc5"
+TROJAN_PASSWORD = "my-secret-pass"
 
 [[kv_namespaces]]
 binding = "C"

@@ -4,7 +4,7 @@ compatibility_date = "2023-10-25"
 
 [vars]
 UUID = "d3b84180-21db-49eb-832f-a39da5b34bc5"
-TROJAN_PASSWORD = "my-secret-pass"
+TROJAN_PASSWORD = "pass12345678"
 
 [[kv_namespaces]]
 binding = "C"
